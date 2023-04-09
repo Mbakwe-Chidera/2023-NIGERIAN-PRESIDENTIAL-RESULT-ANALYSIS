@@ -28,7 +28,7 @@ http://localhost:8888/notebooks/election_analysis.ipynb#
 # 
 # The Data (in .csv format) used is available for 
 # 
-# Am going to use these three main python programming packages pandas with matplotlib embedded to analyse the 2015 Presidential Election Result.
+# Am going to use these three main python programming packages pandas with matplotlib embedded to analyse the 2023 Presidential Election Result.
 
 
 
@@ -106,3 +106,15 @@ COMPARING POPULATION AND NO OF REGISTERED VOTERS
 Election Results by State and Party
 TOTAL SUM OF VOTE FOR EACH PARTY
 Nigerian map showing each states won by the four parties
+
+
+Result from the analysis
+From the analysis and result called by inec Nigeria's election umpire, here is the main summary from the 36 states and Abuja
+Tinubu of APC scored the highest votes of 8,865,420 and won 12states( Rivers, Bornu, Jigawa, Zamfara, Benue, Kogi, Kwara, Niger, Ekiti, Ondo, Oyo, Ogun)
+Atiki of People's Democratic party (PDP) scored 6984290 votes and won 12 states (Kastina, Kebbi, Sokoto, Kaduna, Gombe, Yobe, Bauchi, Adamawa, Taraba, Osun, Akwa Ibom, Bayelsa)
+Peter Obi also won 12 states got 6093962 votes from(Edo, Cross River, Delta, Lagos, FCT, Plateau, Imo, Ebonyi, Nasarawa, Anambra, Abia, Enugu).
+Kwankwaso (NNPP) won with 1496671 votes and only won 1 state (Kano).
+
+CONCLUSION
+Based on the result Tinubu scored at least 25% of votes in 29 states, Atiki 21% and Obi 16%, one needs at least 24/25 states including FCT and Tinubu got the call making him to be pronounced the winner of the Presidential Election
+
