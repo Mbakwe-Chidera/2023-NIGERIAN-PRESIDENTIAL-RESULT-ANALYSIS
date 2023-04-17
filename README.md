@@ -116,5 +116,5 @@ Peter Obi also won 12 states got 6093962 votes from(Edo, Cross River, Delta, Lag
 Kwankwaso (NNPP) won with 1496671 votes and only won 1 state (Kano).
 
 CONCLUSION
-Based on the result Tinubu scored at least 25% of votes in 29 states, Atiki 21% and Obi 16%, one needs at least 24/25 states including FCT and Tinubu got the call making him to be pronounced the winner of the Presidential Election
+Based on the result Tinubu scored at least 25% of votes in 29 states, Atiki 21% and Obi 16%, one needs at least 24/25 states including FCT and Tinubu got the call making him to be pronounced the winner of the Presidential Election.
 
